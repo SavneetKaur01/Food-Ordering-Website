@@ -1,0 +1,1 @@
+alert("Password and Rpassword are not same");
